@@ -20,5 +20,4 @@ int main()
     int a[]={6,8,2,7,3,12,21};
     cout<<helper(a,7)<<endl;    
     return 0;
-    
 }
